@@ -1,0 +1,2 @@
+com/enn/phoneclient/BuildConfig.java
+ com.enn.phoneclient.BuildConfig

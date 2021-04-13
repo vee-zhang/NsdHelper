@@ -1,0 +1,4 @@
+include ':NsdHelper'
+include ':phone'
+include ':tv'
+rootProject.name = "LK_TV"

@@ -1,0 +1,2 @@
+com/enn/lk_tv/BuildConfig.java
+ com.enn.lk_tv.BuildConfig
