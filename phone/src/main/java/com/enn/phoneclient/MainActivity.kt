@@ -105,8 +105,8 @@ class MainActivity : AppCompatActivity() {
                     )
 
                     socket.send(packet)
-                    //                        socket.send(packet)
-                    //                        socket.send(packet)
+                    socket.send(packet)
+                    socket.send(packet)
                     socket.close()
                 }.start()
 

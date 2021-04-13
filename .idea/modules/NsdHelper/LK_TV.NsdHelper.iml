@@ -60,6 +60,9 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../NsdHelper/build/generated/res/resValues/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../NsdHelper/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../NsdHelper/build" />
     </content>

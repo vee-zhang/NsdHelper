@@ -4,6 +4,7 @@ ADDED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [:NsdHelper] E:\Projects\LK_TV\NsdHelper\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\056692af005eb43a81b768e67cda6f87\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\0048295f936f7f8e840fd4a81778e6c3\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\47851a46e242e946cfdd57f82db4c3ec\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
@@ -115,6 +116,8 @@ uses-sdk
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml
 INJECTED from E:\Projects\LK_TV\tv\src\main\AndroidManifest.xml
+MERGED from [:NsdHelper] E:\Projects\LK_TV\NsdHelper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:NsdHelper] E:\Projects\LK_TV\NsdHelper\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\056692af005eb43a81b768e67cda6f87\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\056692af005eb43a81b768e67cda6f87\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\willi\.gradle\caches\transforms-2\files-2.1\0048295f936f7f8e840fd4a81778e6c3\material-1.1.0\AndroidManifest.xml:20:5-44

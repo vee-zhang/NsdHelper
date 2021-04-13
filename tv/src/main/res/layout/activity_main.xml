@@ -15,17 +15,7 @@
         android:textSize="28sp"
         tools:text="服务已注册" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="regist"
-        android:text="注册服务" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="unregist"
-        android:text="取消注册" />
 
     <TextView
         android:id="@+id/tv_result"

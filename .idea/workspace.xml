@@ -10,7 +10,197 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc28c9b-2166-4238-ac95-742bbf987cc7" name="Default Changelist" comment="" />
+    <list default="true" id="0bc28c9b-2166-4238-ac95-742bbf987cc7" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/NsdHelper/LK_TV.NsdHelper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/NsdHelper/LK_TV.NsdHelper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$adapter$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$adapter$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$discoveryListener$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$discoveryListener$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1$1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1$1$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$handler$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$resolveListener$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity$resolveListener$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/NsdServiceInfoAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/NsdServiceInfoAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/VH$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/VH$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/VH.dex" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/intermediates/project_dex_archive/debug/out/com/enn/phoneclient/VH.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/outputs/apk/debug/phone-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/outputs/apk/debug/phone-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$adapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$adapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$discoveryListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$discoveryListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$handler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$resolveListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity$resolveListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/NsdServiceInfoAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/NsdServiceInfoAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/VH$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/VH$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/VH.class" beforeDir="false" afterPath="$PROJECT_DIR$/phone/build/tmp/kotlin-classes/debug/com/enn/phoneclient/VH.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/src/main/java/com/enn/phoneclient/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/phone/src/main/java/com/enn/phoneclient/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/043748efd6bb75c743e56c44bf4334e08d5e28938f5e5528195dacef850a08cc_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/043748efd6bb75c743e56c44bf4334e08d5e28938f5e5528195dacef850a08cc_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$Companion.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$onCreate$1$onReceive$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$onCreate$1$onReceive$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$onCreate$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$onCreate$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$receive$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$receive$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$regist$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$regist$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity$registrationListener$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/NsdHelper$OnReceiveListener.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/NsdHelper$regist$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/NsdHelper$unregist$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/project_dex_archive/debug/out/com/enn/lk_tv/NsdHelper.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/outputs/apk/debug/tv-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/outputs/apk/debug/tv-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$onCreate$1$onReceive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$onCreate$1$onReceive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$onCreate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$onCreate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$receive$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$receive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$regist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$regist$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity$registrationListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/NsdHelper$OnReceiveListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/NsdHelper$regist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/NsdHelper$unregist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/tmp/kotlin-classes/debug/com/enn/lk_tv/NsdHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/src/main/java/com/enn/lk_tv/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/tv/src/main/java/com/enn/lk_tv/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tv/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,18 +220,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1r34f2oekgAf6j7KyoTPRCBhruO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="55b39a56" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-13T09:35:05.990Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/willi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Downloads/grpc-kotlin/examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="multi-representation-previewC:/Users/willi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_selected" value="Custom views" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
@@ -49,67 +246,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android App.tv">
+  <component name="RunManager" selected="Android App.phone">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mobileclient" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="LK_TV.mobileclient" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -230,7 +370,6 @@
     </configuration>
     <list>
       <item itemvalue="Android App.tv" />
-      <item itemvalue="Android App.mobileclient" />
       <item itemvalue="Android App.phone" />
     </list>
   </component>
@@ -245,16 +384,29 @@
       <option name="presentableId" value="Default" />
       <updated>1618191538808</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1618300650034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618300650034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="798" y="447" key="#PSD" timestamp="1618300185943">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="798" y="447" key="#PSD/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618300185943" />
-    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618280673870">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="8" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618306499715">
+      <screen x="0" y="0" width="1097" height="577" />
     </state>
+    <state x="8" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1097.577@0.0.1097.577" timestamp="1618306499715" />
     <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618280673870" />
     <state x="1066" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1618296959476">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -272,25 +424,29 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="485" height="466" key="DebuggerActiveHint/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618211873021" />
-    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1618277655422">
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1618300490198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1061" y="455" key="FileChooserDialogImpl/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618277655422" />
-    <state width="2518" height="399" key="GridCell.Tab.0.bottom" timestamp="1618297229116">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="1061" y="455" key="FileChooserDialogImpl/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618300490198" />
+    <state width="1041" height="306" key="GridCell.Tab.0.bottom" timestamp="1618306446091">
+      <screen x="0" y="0" width="1097" height="577" />
     </state>
+    <state width="1041" height="306" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1618306446091" />
     <state width="2518" height="399" key="GridCell.Tab.0.bottom/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618297229116" />
-    <state width="2518" height="399" key="GridCell.Tab.0.center" timestamp="1618297229116">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1041" height="306" key="GridCell.Tab.0.center" timestamp="1618306446091">
+      <screen x="0" y="0" width="1097" height="577" />
     </state>
+    <state width="1041" height="306" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1618306446091" />
     <state width="2518" height="399" key="GridCell.Tab.0.center/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618297229116" />
-    <state width="2518" height="399" key="GridCell.Tab.0.left" timestamp="1618297229116">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1041" height="306" key="GridCell.Tab.0.left" timestamp="1618306446091">
+      <screen x="0" y="0" width="1097" height="577" />
     </state>
+    <state width="1041" height="306" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1618306446091" />
     <state width="2518" height="399" key="GridCell.Tab.0.left/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618297229116" />
-    <state width="2518" height="399" key="GridCell.Tab.0.right" timestamp="1618297229116">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1041" height="306" key="GridCell.Tab.0.right" timestamp="1618306446091">
+      <screen x="0" y="0" width="1097" height="577" />
     </state>
+    <state width="1041" height="306" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1618306446091" />
     <state width="2518" height="399" key="GridCell.Tab.0.right/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618297229116" />
     <state width="2518" height="399" key="GridCell.Tab.1.bottom" timestamp="1618297229117">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -316,6 +472,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="345" key="SettingsEditor/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618279336420" />
+    <state x="873" y="420" key="Vcs.Push.Dialog.v2" timestamp="1618300662851">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="420" key="Vcs.Push.Dialog.v2/3840.416.1097.583/0.0.2560.1400@0.0.2560.1400" timestamp="1618300662851" />
     <state x="844" y="429" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618281516885">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

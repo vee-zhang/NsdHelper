@@ -33,6 +33,16 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
+
+        NsdHelper.regist(this, {
+            handler.post {
+                tv.text = "${it.serviceName}服务注册成功！"
+            }
+        }) { it, code ->
+            handler.post {
+                tv.text = "${it.serviceName}服务注册失败：$code"
+            }
+        }
     }
 
 
